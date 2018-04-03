@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Qt Linux Huawei Flasher
+GenericName=HUAWEI Modem and Router Flasher
+GenericName[ru]=Прошивальщик модемов и роутеров HUAWEI
+Comment=Graphical utility for flashing modems and routers from HUAWEI and editing firmware files
+Comment[ru]=Графическая утилита для прошивки модемов и роутеров фирмы HUAWEI и редактирования файлов прошивок
+Exec=qhuaweiflash %U
+Icon=qhuaweiflash
+Type=Application
+Categories=Qt;Application;Utility;
+Terminal=false
